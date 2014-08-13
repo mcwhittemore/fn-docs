@@ -1,6 +1,6 @@
 {
   "name": "fn-docs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "parse docs out of a function",
   "main": "index.js",
   "directories": {
@@ -22,5 +22,13 @@
     "comments"
   ],
   "author": "Matthew Chase Whittemore",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcwhittemore/fn-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/fn-docs/issues"
+  },
+  "homepage": "https://github.com/mcwhittemore/fn-docs"
 }
