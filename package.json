@@ -1,0 +1,26 @@
+{
+  "name": "fn-docs",
+  "version": "0.0.0",
+  "description": "parse docs out of a function",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "should": "~4.0.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "function",
+    "docs",
+    "parse",
+    "comments"
+  ],
+  "author": "Matthew Chase Whittemore",
+  "license": "MIT"
+}
